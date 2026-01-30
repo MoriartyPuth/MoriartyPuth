@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work in the government sector and develop cybersecurity tools focused on defense, analysis, and automation.<br><br>This GitHub is used for security research, tooling, and side projects related to cyber operations.<br>
+I work in the government sector and develop cybersecurity tools focused on defense, analysis, and automation.<br><br>This GitHub is used for security research, tooling, and side projects related to cyber operations and machine learning.<br>
 
 
 # 💻 Tech Stack:
