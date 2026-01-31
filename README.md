@@ -1,5 +1,6 @@
 <div align="center">
 
+# ✨ Hi there!
 I work in the government sector and develop cybersecurity tools focused on defense, analysis, and automation.<br><br>This GitHub is used for security research, tooling, and side projects related to cyber operations and machine learning.<br>
 
 ![Hands Up Wow GIF by sillynub](https://github.com/user-attachments/assets/2fcd42ba-f198-47fa-a010-cf8f0f101ada)
@@ -11,6 +12,10 @@ I work in the government sector and develop cybersecurity tools focused on defen
 ![](https://nirzak-streak-stats.vercel.app/?user=MoriartyPuth&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriartyPuth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🔥 Current Focus
+- 🤖 **AI integration and training** - ML models and neural networks in production
+- 💻 **Cybersecurity tools and automation** - Cybersecurity tools with automation
+- ⚔️ **Exploitation document** - Documentation of exploit
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
