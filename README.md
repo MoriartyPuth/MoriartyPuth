@@ -17,6 +17,13 @@ I work in the government sector and develop cybersecurity tools focused on defen
 - 💻 **Cybersecurity tools and automation** - Cybersecurity tools with automation
 - ⚔️ **Exploitation document** - Documentation of exploit
 
+## 🚩 CTF Writeups
+Step-by-step solutions to the CTF challenges and hacking labs I've solved, sorted by category.
+
+[![CTF Writeups](https://github-readme-stats.vercel.app/api/pin/?username=MoriartyPuth&repo=ctf-writeups&theme=tokyonight)](https://github.com/MoriartyPuth/ctf-writeups)
+
+[🌐 Web](https://github.com/MoriartyPuth/ctf-writeups/tree/main/web) · [💥 Pwn](https://github.com/MoriartyPuth/ctf-writeups/tree/main/pwn) · [🔍 Reverse](https://github.com/MoriartyPuth/ctf-writeups/tree/main/reverse) · [🔐 Crypto](https://github.com/MoriartyPuth/ctf-writeups/tree/main/crypto) · [🧪 Forensics](https://github.com/MoriartyPuth/ctf-writeups/tree/main/forensics) · [🌍 OSINT](https://github.com/MoriartyPuth/ctf-writeups/tree/main/osint) · [🧩 Misc](https://github.com/MoriartyPuth/ctf-writeups/tree/main/misc) · [🖥️ Boot2Root](https://github.com/MoriartyPuth/ctf-writeups/tree/main/boot2root)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
