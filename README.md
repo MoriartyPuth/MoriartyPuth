@@ -22,7 +22,6 @@ Step-by-step solutions to the CTF challenges and hacking labs I've solved, sorte
 
 [![CTF Writeups](https://img.shields.io/badge/📂_ctf--writeups-134_writeups-1a1b27?style=for-the-badge&labelColor=70a5fd)](https://github.com/MoriartyPuth/ctf-writeups)
 
-[🌐 Web](https://github.com/MoriartyPuth/ctf-writeups/tree/main/web) · [💥 Pwn](https://github.com/MoriartyPuth/ctf-writeups/tree/main/pwn) · [🔍 Reverse](https://github.com/MoriartyPuth/ctf-writeups/tree/main/reverse) · [🔐 Crypto](https://github.com/MoriartyPuth/ctf-writeups/tree/main/crypto) · [🧪 Forensics](https://github.com/MoriartyPuth/ctf-writeups/tree/main/forensics) · [🌍 OSINT](https://github.com/MoriartyPuth/ctf-writeups/tree/main/osint) · [🧩 Misc](https://github.com/MoriartyPuth/ctf-writeups/tree/main/misc) · [🖥️ Boot2Root](https://github.com/MoriartyPuth/ctf-writeups/tree/main/boot2root)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
